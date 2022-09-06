@@ -1,1 +1,1 @@
-love exponent
+print float

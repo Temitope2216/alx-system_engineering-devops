@@ -1,6 +1,2 @@
 #!/bin/bash
-printf "%.2f" $NUM | sort
-<<<<<<< HEAD
-=======
-
->>>>>>> d03f11bddb240bb68b2521b4db2f6f4629308b2c
+printf '%.2f\n' $NUM
