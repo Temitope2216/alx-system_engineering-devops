@@ -1,1 +1,1 @@
-create a script
+global variables
