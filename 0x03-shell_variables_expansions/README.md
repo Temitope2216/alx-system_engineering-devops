@@ -1,1 +1,1 @@
-print float
+create global
