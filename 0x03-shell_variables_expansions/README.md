@@ -1,1 +1,1 @@
-global variable
+love exponent
