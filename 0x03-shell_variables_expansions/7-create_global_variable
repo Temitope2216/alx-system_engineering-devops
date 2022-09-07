@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+export BEST=school
+=======
+<<<<<<< HEAD
 export school=BEST
 =======
 export BEST="school"
 >>>>>>> a72f3cfc3a28a9c05f17f3c5d2dbe7ba149bdc08
+>>>>>>> d1f3a97895c73904570d161bd4f43ce8cdf0237d
