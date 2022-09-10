@@ -1,1 +1,1 @@
-listfiles
+hidden
