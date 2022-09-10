@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bring
-=======
-bring home
->>>>>>> d06940c2a4f2d46ade0c4fb5f869327486bf6583
+listfiles
